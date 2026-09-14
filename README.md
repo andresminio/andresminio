@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Andrés Miño
 
-<!--
-**andresminio/andresminio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer con raíces en ciencia política. Vengo del análisis de datos electorales y hoy me dedico a construir pipelines de datos —ETL/ELT, modelado dimensional, calidad de datos— sobre información pública.
 
-Here are some ideas to get you started:
+## 🔧 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, SQL, PySpark
+- BigQuery, Databricks, Delta Lake
+- dbt (staging → intermediate → marts)
+- Airflow
+
+## 📌 Proyectos
+
+- **[chatwithdata](https://github.com/andresminio/chatwithdata)** — Portal conversacional sobre datos electorales argentinos (2011–2025): preguntas en lenguaje natural resueltas con SQL real sobre datos oficiales.
+- **[partidos-vigentes-pipeline](https://github.com/andresminio/partidos-vigentes-pipeline)** — Pipeline mensual que historiza el padrón de partidos políticos vigentes con SCD Type 2 en BigQuery + dbt.
+- **[resultados-electorales-pipeline](https://github.com/andresminio/resultados-electorales-pipeline)** — Pipeline en Databricks (arquitectura medallion) para procesar resultados electorales nacionales.
+
+## 🎯 Buscando
+
+Sumarme como colaborador a proyectos técnicos activos —con code review, PRs, CI/CD— para seguir creciendo como Data Engineer junto a gente con más experiencia.
+
+📍 Buenos Aires, Argentina
