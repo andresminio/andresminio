@@ -13,7 +13,7 @@ Data Engineer con raíces en ciencia política. Vengo del análisis de datos ele
 - **[Resultados Electorales Pipeline](https://github.com/andresminio/resultados-electorales-pipeline)** — Pipeline en Databricks (arquitectura medallion) para procesar resultados electorales nacionales.
 - **[Partidos Vigentes Pipeline](https://github.com/andresminio/partidos-vigentes-pipeline)** — Pipeline mensual que historiza el padrón de partidos políticos vigentes con SCD Type 2 en BigQuery + dbt.
 - **[UEEDA_Bot](https://github.com/andresminio/pedidos_acceso)** — Pipeline de ingesta y procesamiento de pedidos de acceso a la información, con clasificación mediante IA y validación human-in-the-loop.
-- **[Chat with Data](https://github.com/andresminio/chatwithdata)** — Portal conversacional sobre datos electorales argentinos (2011–2025): preguntas en lenguaje natural resueltas con SQL real y auditable sobre datos oficiales (la consulta ejecutada siempre queda visible para verificar la respuesta, no es texto generado por el modelo).
+- **[Chat with Data](https://github.com/andresminio/chatwithdata)** — Portal conversacional sobre datos electorales argentinos (2011–2025): preguntas en lenguaje natural resueltas con SQL real y auditable sobre datos oficiales.
 
 ## 🎯 Buscando
 
