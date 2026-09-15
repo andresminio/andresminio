@@ -1,23 +1,24 @@
 # 👋 Andrés Miño
 
-Data Engineer con raíces en ciencia política. Vengo del análisis de datos electorales y hoy me dedico a construir pipelines de datos —ETL/ELT, modelado dimensional, calidad de datos— sobre información pública.
+Data Engineer. Construyo pipelines ETL/ELT y datasets analíticos, con especial foco en que los datos sean confiables, trazables y útiles para quienes los usan.  
 
 ## 🔧 Stack
 
 - Python, SQL, PySpark
-- BigQuery, Databricks, Delta Lake, Postgres
-- dbt (staging → intermediate → marts)
+- GCP, Databricks, Delta Lake, Postgres
+- dbt
 - Airflow
 
 ## 📌 Proyectos
 
-- **[Resultados Electorales Pipeline](https://github.com/andresminio/resultados-electorales-pipeline)** — Pipeline en Databricks (arquitectura medallion) para procesar resultados electorales nacionales.
-- **[Partidos Vigentes Pipeline](https://github.com/andresminio/partidos-vigentes-pipeline)** — Pipeline mensual que historiza el padrón de partidos políticos vigentes con SCD Type 2 en BigQuery + dbt.
-- **[UEEDA_Bot](https://github.com/andresminio/pedidos_acceso)** — Pipeline de ingesta y procesamiento de pedidos de acceso a la información, con clasificación mediante IA y validación human-in-the-loop.
-- **[Chat with Data](https://github.com/andresminio/chatwithdata)** — Portal conversacional sobre datos electorales argentinos (2011–2025): preguntas en lenguaje natural resueltas con SQL real y auditable sobre datos oficiales (la consulta ejecutada siempre queda visible para verificar la respuesta, no es texto generado por el modelo).
+- **[Resultados Electorales Pipeline](https://github.com/andresminio/resultados-electorales-pipeline)** — Pipeline en Databricks (arquitectura medallion) para procesar resultados electorales nacionales por mesa.
+- **[Partidos Vigentes Pipeline](https://github.com/andresminio/partidos-vigentes-pipeline)** — Pipeline mensual que historiza el registro de partidos políticos vigentes con SCD Tipo 2 en GCP (Storage y BigQuery) + dbt.
+- **[UEEDA_Bot](https://github.com/andresminio/pedidos_acceso)** — Pipeline de ingesta y procesamiento de pedidos de acceso a la información pública, con clasificación mediante IA y validación human-in-the-loop.
+- **[Chat with Data](https://github.com/andresminio/chatwithdata)** — Portal conversacional sobre datos electorales argentinos (2011–2025): preguntas en lenguaje natural resueltas con SQL real y auditable sobre datos oficiales
 
 ## 🎯 Buscando
 
-Sumarme como colaborador a proyectos técnicos activos —con code review, PRs, CI/CD— para seguir creciendo como Data Engineer junto a gente con más experiencia.
+Sumarme como colaborador a proyectos técnicos activos para seguir creciendo como Data Engineer, trabajando en equipo y aprendiendo de gente con más experiencia. Estoy abierto a proyectos open source, iniciativas de Data for Good, Data Civic u otros proyectos con impacto.
 
 📍 Buenos Aires, Argentina
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/jandresmino/)
