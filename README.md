@@ -21,4 +21,5 @@ Data Engineer. Construyo pipelines ETL/ELT y datasets analíticos, con especial 
 Sumarme como colaborador a proyectos técnicos activos para seguir creciendo como Data Engineer, trabajando en equipo y aprendiendo de gente con más experiencia. Estoy abierto a proyectos open source, iniciativas de Data for Good, Data Civic u otros proyectos con impacto.
 
 📍 Buenos Aires, Argentina
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/jandresmino/)
+
+Contacto: [LinkedIn](https://www.linkedin.com/in/jandresmino/)
