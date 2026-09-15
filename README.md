@@ -1,6 +1,6 @@
 # 👋 Andrés Miño
 
-Data Engineer. Construyo pipelines ETL/ELT y datasets analíticos, con especial foco en que los datos sean confiables, trazables y útiles para quienes los usan.  
+Data Engineer. Construyo pipelines ETL/ELT que disponibilizan datos confiables, trazables y útiles para el consumo analítico y la mejora de procesos.  
 
 ## 🔧 Stack
 
