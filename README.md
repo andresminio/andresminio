@@ -22,4 +22,4 @@ Sumarme como colaborador a proyectos técnicos activos para seguir creciendo com
 
 📍 Buenos Aires, Argentina
 
-Contacto: [LinkedIn](https://www.linkedin.com/in/jandresmino/)
+   Contacto: [LinkedIn](https://www.linkedin.com/in/jandresmino/) · andresminio@gmail.com
