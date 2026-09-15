@@ -1,6 +1,7 @@
 # 👋 Andrés Miño
 
-Data Engineer con raíces en ciencia política. Vengo del análisis de datos electorales y hoy me dedico a construir pipelines de datos —ETL/ELT, modelado dimensional, calidad de datos— sobre información pública.
+Data Engineer con experiencia trabajando con grandes volúmenes de datos. Construyo pipelines ETL/ELT y datasets analíticos, con especial foco en que los datos sean confiables, trazables y útiles para quienes los usan.
+
 
 ## 🔧 Stack
 
