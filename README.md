@@ -13,7 +13,7 @@ Data Engineer. Construyo pipelines ETL/ELT que disponibilizan datos confiables, 
 
 - **[Resultados Electorales Pipeline](https://github.com/andresminio/resultados-electorales-pipeline)** — Pipeline en Databricks (arquitectura medallion) para procesar resultados electorales nacionales por mesa.
 - **[Partidos Vigentes Pipeline](https://github.com/andresminio/partidos-vigentes-pipeline)** — Pipeline mensual que historiza el registro de partidos políticos vigentes con SCD Tipo 2 en GCP (Storage y BigQuery) + dbt. 
-- **[UEEDA_Bot](https://github.com/andresminio/pedidos_acceso)** — Pipeline de ingesta y procesamiento de pedidos de acceso a la información pública, con clasificación mediante IA y validación human-in-the-loop.
+- **[Mail_Bot](https://github.com/andresminio/pedidos_acceso)** — Pipeline de ingesta y procesamiento de pedidos de acceso a la información pública, con clasificación mediante IA y validación human-in-the-loop.
 - **[Chat with Data](https://github.com/andresminio/chatwithdata)** — Portal conversacional sobre datos electorales argentinos (2011–2025): preguntas en lenguaje natural resueltas con SQL real y auditable sobre datos oficiales
 
 ## 🎯 Buscando
